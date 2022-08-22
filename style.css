@@ -1,7 +1,7 @@
 .game{
   height: 600px;
   width: 900px;
-  background-image: url('/background-img.png');
+  background-image: url('./background-img.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
