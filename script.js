@@ -2,8 +2,8 @@ var pipe1_hg;
 var hole1_hg;
 var pipe2_hg;
 
-var point = new Audio('/soundseffect/point.mp3');
-var die = new Audio('/soundseffect/die.mp3');
+var point = new Audio('./soundseffect/point.mp3');
+var die = new Audio('./soundseffect/die.mp3');
 
 setInterval(() => {
     pipe1_hg=Math.floor(Math.random()*20)+40;

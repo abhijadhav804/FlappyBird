@@ -20,7 +20,7 @@ body{
   position: absolute;
   width: 50px;
   height: 50%;
-  background-image: url('flappybird-pipe.png');
+  background-image: url('./flappybird-pipe.png');
   transform: rotate(180deg);
   
 }
@@ -30,7 +30,7 @@ body{
   width: 50px;
   height: 30%;
   top: 80%;
-  background-image: url('flappybird-pipe.png');
+  background-image: url('./flappybird-pipe.png');
 }
 
 .obs{
